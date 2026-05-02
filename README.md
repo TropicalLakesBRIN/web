@@ -1,2 +1,2 @@
-# tropical-lake-dynamics-website
+# T-Lake
 Research Group website
